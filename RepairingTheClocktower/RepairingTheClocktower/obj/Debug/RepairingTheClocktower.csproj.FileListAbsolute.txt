@@ -1,0 +1,7 @@
+C:\Repo\RepairingTheClocktower\RepairingTheClocktower\bin\Debug\RepairingTheClocktower.exe.config
+C:\Repo\RepairingTheClocktower\RepairingTheClocktower\bin\Debug\RepairingTheClocktower.exe
+C:\Repo\RepairingTheClocktower\RepairingTheClocktower\bin\Debug\RepairingTheClocktower.pdb
+C:\Repo\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\RepairingTheClocktower.csproj.AssemblyReference.cache
+C:\Repo\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\RepairingTheClocktower.csproj.CoreCompileInputs.cache
+C:\Repo\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\RepairingTheClocktower.exe
+C:\Repo\RepairingTheClocktower\RepairingTheClocktower\obj\Debug\RepairingTheClocktower.pdb

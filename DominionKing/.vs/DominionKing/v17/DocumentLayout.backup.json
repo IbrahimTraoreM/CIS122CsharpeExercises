@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repo\\DominionKing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71B969E6-A3C9-434B-A394-0DC61F294C5F}|DominionKing\\DominionKing.csproj|C:\\Repo\\DominionKing\\dominionking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B969E6-A3C9-434B-A394-0DC61F294C5F}|DominionKing\\DominionKing.csproj|solutionrelative:dominionking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71B969E6-A3C9-434B-A394-0DC61F294C5F}|DominionKing\\DominionKing.csproj|c:\\repo\\dominionking\\dominionking\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71B969E6-A3C9-434B-A394-0DC61F294C5F}|DominionKing\\DominionKing.csproj|solutionrelative:dominionking\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Repo\\DominionKing\\DominionKing\\Class1.cs",
+              "RelativeDocumentMoniker": "DominionKing\\Class1.cs",
+              "ToolTip": "C:\\Repo\\DominionKing\\DominionKing\\Class1.cs",
+              "RelativeToolTip": "DominionKing\\Class1.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:54:27.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repo\\DominionKing\\DominionKing\\Program.cs",
+              "RelativeDocumentMoniker": "DominionKing\\Program.cs",
+              "ToolTip": "C:\\Repo\\DominionKing\\DominionKing\\Program.cs",
+              "RelativeToolTip": "DominionKing\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:42:33.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
