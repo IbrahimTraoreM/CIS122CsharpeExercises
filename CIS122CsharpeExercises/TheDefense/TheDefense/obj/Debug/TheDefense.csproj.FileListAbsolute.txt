@@ -1,0 +1,7 @@
+C:\Repo\TheDefense\TheDefense\bin\Debug\TheDefense.exe.config
+C:\Repo\TheDefense\TheDefense\bin\Debug\TheDefense.exe
+C:\Repo\TheDefense\TheDefense\bin\Debug\TheDefense.pdb
+C:\Repo\TheDefense\TheDefense\obj\Debug\TheDefense.csproj.AssemblyReference.cache
+C:\Repo\TheDefense\TheDefense\obj\Debug\TheDefense.csproj.CoreCompileInputs.cache
+C:\Repo\TheDefense\TheDefense\obj\Debug\TheDefense.exe
+C:\Repo\TheDefense\TheDefense\obj\Debug\TheDefense.pdb

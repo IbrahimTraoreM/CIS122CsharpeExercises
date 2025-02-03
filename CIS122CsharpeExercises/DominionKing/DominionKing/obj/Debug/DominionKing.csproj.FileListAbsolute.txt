@@ -1,0 +1,7 @@
+C:\Repo\DominionKing\DominionKing\bin\Debug\DominionKing.exe.config
+C:\Repo\DominionKing\DominionKing\bin\Debug\DominionKing.exe
+C:\Repo\DominionKing\DominionKing\bin\Debug\DominionKing.pdb
+C:\Repo\DominionKing\DominionKing\obj\Debug\DominionKing.csproj.AssemblyReference.cache
+C:\Repo\DominionKing\DominionKing\obj\Debug\DominionKing.csproj.CoreCompileInputs.cache
+C:\Repo\DominionKing\DominionKing\obj\Debug\DominionKing.exe
+C:\Repo\DominionKing\DominionKing\obj\Debug\DominionKing.pdb

@@ -1,0 +1,7 @@
+C:\Repo\FourSister\FourSister\bin\Debug\FourSister.exe.config
+C:\Repo\FourSister\FourSister\bin\Debug\FourSister.exe
+C:\Repo\FourSister\FourSister\bin\Debug\FourSister.pdb
+C:\Repo\FourSister\FourSister\obj\Debug\FourSister.csproj.AssemblyReference.cache
+C:\Repo\FourSister\FourSister\obj\Debug\FourSister.csproj.CoreCompileInputs.cache
+C:\Repo\FourSister\FourSister\obj\Debug\FourSister.exe
+C:\Repo\FourSister\FourSister\obj\Debug\FourSister.pdb
