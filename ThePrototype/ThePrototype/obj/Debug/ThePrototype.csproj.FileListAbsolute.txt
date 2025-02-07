@@ -1,0 +1,7 @@
+C:\Repo\ThePrototype\ThePrototype\bin\Debug\ThePrototype.exe.config
+C:\Repo\ThePrototype\ThePrototype\bin\Debug\ThePrototype.exe
+C:\Repo\ThePrototype\ThePrototype\bin\Debug\ThePrototype.pdb
+C:\Repo\ThePrototype\ThePrototype\obj\Debug\ThePrototype.csproj.AssemblyReference.cache
+C:\Repo\ThePrototype\ThePrototype\obj\Debug\ThePrototype.csproj.CoreCompileInputs.cache
+C:\Repo\ThePrototype\ThePrototype\obj\Debug\ThePrototype.exe
+C:\Repo\ThePrototype\ThePrototype\obj\Debug\ThePrototype.pdb

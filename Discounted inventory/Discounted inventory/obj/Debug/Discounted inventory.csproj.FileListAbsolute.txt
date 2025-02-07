@@ -1,0 +1,7 @@
+C:\Repo\Discounted inventory\Discounted inventory\obj\Debug\Discounted inventory.csproj.AssemblyReference.cache
+C:\Repo\Discounted inventory\Discounted inventory\obj\Debug\Discounted inventory.csproj.CoreCompileInputs.cache
+C:\Repo\Discounted inventory\Discounted inventory\bin\Debug\Discounted inventory.exe.config
+C:\Repo\Discounted inventory\Discounted inventory\bin\Debug\Discounted inventory.exe
+C:\Repo\Discounted inventory\Discounted inventory\bin\Debug\Discounted inventory.pdb
+C:\Repo\Discounted inventory\Discounted inventory\obj\Debug\Discounted inventory.exe
+C:\Repo\Discounted inventory\Discounted inventory\obj\Debug\Discounted inventory.pdb

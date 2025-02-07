@@ -1,0 +1,7 @@
+C:\Repo\The magic canon\The magic canon\bin\Debug\The magic canon.exe.config
+C:\Repo\The magic canon\The magic canon\bin\Debug\The magic canon.exe
+C:\Repo\The magic canon\The magic canon\bin\Debug\The magic canon.pdb
+C:\Repo\The magic canon\The magic canon\obj\Debug\The magic canon.csproj.AssemblyReference.cache
+C:\Repo\The magic canon\The magic canon\obj\Debug\The magic canon.csproj.CoreCompileInputs.cache
+C:\Repo\The magic canon\The magic canon\obj\Debug\The magic canon.exe
+C:\Repo\The magic canon\The magic canon\obj\Debug\The magic canon.pdb

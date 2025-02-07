@@ -1,0 +1,7 @@
+C:\Repo\WatchTower\WatchTower\bin\Debug\WatchTower.exe.config
+C:\Repo\WatchTower\WatchTower\bin\Debug\WatchTower.exe
+C:\Repo\WatchTower\WatchTower\bin\Debug\WatchTower.pdb
+C:\Repo\WatchTower\WatchTower\obj\Debug\WatchTower.csproj.AssemblyReference.cache
+C:\Repo\WatchTower\WatchTower\obj\Debug\WatchTower.csproj.CoreCompileInputs.cache
+C:\Repo\WatchTower\WatchTower\obj\Debug\WatchTower.exe
+C:\Repo\WatchTower\WatchTower\obj\Debug\WatchTower.pdb

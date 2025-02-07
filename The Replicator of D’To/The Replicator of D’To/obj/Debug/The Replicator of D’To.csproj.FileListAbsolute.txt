@@ -1,0 +1,7 @@
+C:\Repo\The Replicator of D’To\The Replicator of D’To\bin\Debug\The Replicator of D’To.exe.config
+C:\Repo\The Replicator of D’To\The Replicator of D’To\bin\Debug\The Replicator of D’To.exe
+C:\Repo\The Replicator of D’To\The Replicator of D’To\bin\Debug\The Replicator of D’To.pdb
+C:\Repo\The Replicator of D’To\The Replicator of D’To\obj\Debug\The Replicator of D’To.csproj.AssemblyReference.cache
+C:\Repo\The Replicator of D’To\The Replicator of D’To\obj\Debug\The Replicator of D’To.csproj.CoreCompileInputs.cache
+C:\Repo\The Replicator of D’To\The Replicator of D’To\obj\Debug\The Replicator of D’To.exe
+C:\Repo\The Replicator of D’To\The Replicator of D’To\obj\Debug\The Replicator of D’To.pdb

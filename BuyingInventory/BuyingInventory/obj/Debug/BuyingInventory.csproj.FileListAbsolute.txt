@@ -1,0 +1,7 @@
+C:\Repo\BuyingInventory\BuyingInventory\bin\Debug\BuyingInventory.exe.config
+C:\Repo\BuyingInventory\BuyingInventory\bin\Debug\BuyingInventory.exe
+C:\Repo\BuyingInventory\BuyingInventory\bin\Debug\BuyingInventory.pdb
+C:\Repo\BuyingInventory\BuyingInventory\obj\Debug\BuyingInventory.csproj.AssemblyReference.cache
+C:\Repo\BuyingInventory\BuyingInventory\obj\Debug\BuyingInventory.csproj.CoreCompileInputs.cache
+C:\Repo\BuyingInventory\BuyingInventory\obj\Debug\BuyingInventory.exe
+C:\Repo\BuyingInventory\BuyingInventory\obj\Debug\BuyingInventory.pdb
