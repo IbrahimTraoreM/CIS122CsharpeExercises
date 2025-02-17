@@ -1,0 +1,7 @@
+C:\Repo\Properties of Arrows\Properties of Arrows\bin\Debug\Properties of Arrows.exe.config
+C:\Repo\Properties of Arrows\Properties of Arrows\bin\Debug\Properties of Arrows.exe
+C:\Repo\Properties of Arrows\Properties of Arrows\bin\Debug\Properties of Arrows.pdb
+C:\Repo\Properties of Arrows\Properties of Arrows\obj\Debug\Properties of Arrows.csproj.AssemblyReference.cache
+C:\Repo\Properties of Arrows\Properties of Arrows\obj\Debug\Properties of Arrows.csproj.CoreCompileInputs.cache
+C:\Repo\Properties of Arrows\Properties of Arrows\obj\Debug\Properties of Arrows.exe
+C:\Repo\Properties of Arrows\Properties of Arrows\obj\Debug\Properties of Arrows.pdb

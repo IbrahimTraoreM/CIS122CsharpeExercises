@@ -1,0 +1,7 @@
+C:\Repo\Simila soup\Simila soup\bin\Debug\Simila soup.exe.config
+C:\Repo\Simila soup\Simila soup\bin\Debug\Simila soup.exe
+C:\Repo\Simila soup\Simila soup\bin\Debug\Simila soup.pdb
+C:\Repo\Simila soup\Simila soup\obj\Debug\Simila soup.csproj.AssemblyReference.cache
+C:\Repo\Simila soup\Simila soup\obj\Debug\Simila soup.csproj.CoreCompileInputs.cache
+C:\Repo\Simila soup\Simila soup\obj\Debug\Simila soup.exe
+C:\Repo\Simila soup\Simila soup\obj\Debug\Simila soup.pdb

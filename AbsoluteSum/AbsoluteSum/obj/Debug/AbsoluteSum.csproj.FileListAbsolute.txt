@@ -1,0 +1,7 @@
+C:\Repo\AbsoluteSum\AbsoluteSum\bin\Debug\AbsoluteSum.exe.config
+C:\Repo\AbsoluteSum\AbsoluteSum\bin\Debug\AbsoluteSum.exe
+C:\Repo\AbsoluteSum\AbsoluteSum\bin\Debug\AbsoluteSum.pdb
+C:\Repo\AbsoluteSum\AbsoluteSum\obj\Debug\AbsoluteSum.csproj.AssemblyReference.cache
+C:\Repo\AbsoluteSum\AbsoluteSum\obj\Debug\AbsoluteSum.csproj.CoreCompileInputs.cache
+C:\Repo\AbsoluteSum\AbsoluteSum\obj\Debug\AbsoluteSum.exe
+C:\Repo\AbsoluteSum\AbsoluteSum\obj\Debug\AbsoluteSum.pdb

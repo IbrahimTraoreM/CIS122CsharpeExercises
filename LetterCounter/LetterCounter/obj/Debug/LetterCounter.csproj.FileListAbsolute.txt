@@ -1,0 +1,7 @@
+C:\Repo\LetterCounter\LetterCounter\bin\Debug\LetterCounter.exe.config
+C:\Repo\LetterCounter\LetterCounter\bin\Debug\LetterCounter.exe
+C:\Repo\LetterCounter\LetterCounter\bin\Debug\LetterCounter.pdb
+C:\Repo\LetterCounter\LetterCounter\obj\Debug\LetterCounter.csproj.AssemblyReference.cache
+C:\Repo\LetterCounter\LetterCounter\obj\Debug\LetterCounter.csproj.CoreCompileInputs.cache
+C:\Repo\LetterCounter\LetterCounter\obj\Debug\LetterCounter.exe
+C:\Repo\LetterCounter\LetterCounter\obj\Debug\LetterCounter.pdb

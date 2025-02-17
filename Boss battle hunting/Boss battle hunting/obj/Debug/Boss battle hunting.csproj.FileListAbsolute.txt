@@ -1,0 +1,7 @@
+C:\Repo\Boss battle hunting\Boss battle hunting\obj\Debug\Boss battle hunting.csproj.AssemblyReference.cache
+C:\Repo\Boss battle hunting\Boss battle hunting\obj\Debug\Boss battle hunting.csproj.CoreCompileInputs.cache
+C:\Repo\Boss battle hunting\Boss battle hunting\bin\Debug\Boss battle hunting.exe.config
+C:\Repo\Boss battle hunting\Boss battle hunting\bin\Debug\Boss battle hunting.exe
+C:\Repo\Boss battle hunting\Boss battle hunting\bin\Debug\Boss battle hunting.pdb
+C:\Repo\Boss battle hunting\Boss battle hunting\obj\Debug\Boss battle hunting.exe
+C:\Repo\Boss battle hunting\Boss battle hunting\obj\Debug\Boss battle hunting.pdb

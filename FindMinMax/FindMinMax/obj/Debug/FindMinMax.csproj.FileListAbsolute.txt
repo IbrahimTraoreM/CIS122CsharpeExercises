@@ -1,0 +1,7 @@
+C:\Repo\FindMinMax\FindMinMax\bin\Debug\FindMinMax.exe.config
+C:\Repo\FindMinMax\FindMinMax\bin\Debug\FindMinMax.exe
+C:\Repo\FindMinMax\FindMinMax\bin\Debug\FindMinMax.pdb
+C:\Repo\FindMinMax\FindMinMax\obj\Debug\FindMinMax.csproj.AssemblyReference.cache
+C:\Repo\FindMinMax\FindMinMax\obj\Debug\FindMinMax.csproj.CoreCompileInputs.cache
+C:\Repo\FindMinMax\FindMinMax\obj\Debug\FindMinMax.exe
+C:\Repo\FindMinMax\FindMinMax\obj\Debug\FindMinMax.pdb
