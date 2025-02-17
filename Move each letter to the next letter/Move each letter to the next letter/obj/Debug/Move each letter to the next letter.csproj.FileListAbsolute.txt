@@ -1,0 +1,7 @@
+C:\Repo\Move each letter to the next letter\Move each letter to the next letter\bin\Debug\Move each letter to the next letter.exe.config
+C:\Repo\Move each letter to the next letter\Move each letter to the next letter\bin\Debug\Move each letter to the next letter.exe
+C:\Repo\Move each letter to the next letter\Move each letter to the next letter\bin\Debug\Move each letter to the next letter.pdb
+C:\Repo\Move each letter to the next letter\Move each letter to the next letter\obj\Debug\Move each letter to the next letter.csproj.AssemblyReference.cache
+C:\Repo\Move each letter to the next letter\Move each letter to the next letter\obj\Debug\Move each letter to the next letter.csproj.CoreCompileInputs.cache
+C:\Repo\Move each letter to the next letter\Move each letter to the next letter\obj\Debug\Move each letter to the next letter.exe
+C:\Repo\Move each letter to the next letter\Move each letter to the next letter\obj\Debug\Move each letter to the next letter.pdb

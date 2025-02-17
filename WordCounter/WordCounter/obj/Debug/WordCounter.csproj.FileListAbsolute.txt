@@ -1,0 +1,7 @@
+C:\Repo\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.AssemblyReference.cache
+C:\Repo\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+C:\Repo\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+C:\Repo\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+C:\Repo\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+C:\Repo\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+C:\Repo\WordCounter\WordCounter\obj\Debug\WordCounter.pdb

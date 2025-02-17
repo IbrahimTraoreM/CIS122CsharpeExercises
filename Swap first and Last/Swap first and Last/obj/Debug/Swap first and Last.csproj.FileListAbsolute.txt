@@ -1,0 +1,7 @@
+C:\Repo\Swap first and Last\Swap first and Last\obj\Debug\Swap first and Last.csproj.AssemblyReference.cache
+C:\Repo\Swap first and Last\Swap first and Last\obj\Debug\Swap first and Last.csproj.CoreCompileInputs.cache
+C:\Repo\Swap first and Last\Swap first and Last\bin\Debug\Swap first and Last.exe.config
+C:\Repo\Swap first and Last\Swap first and Last\bin\Debug\Swap first and Last.exe
+C:\Repo\Swap first and Last\Swap first and Last\bin\Debug\Swap first and Last.pdb
+C:\Repo\Swap first and Last\Swap first and Last\obj\Debug\Swap first and Last.exe
+C:\Repo\Swap first and Last\Swap first and Last\obj\Debug\Swap first and Last.pdb

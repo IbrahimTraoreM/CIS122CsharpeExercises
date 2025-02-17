@@ -1,0 +1,7 @@
+C:\Repo\Check if characters are in order\Check if characters are in order\bin\Debug\Check if characters are in order.exe.config
+C:\Repo\Check if characters are in order\Check if characters are in order\bin\Debug\Check if characters are in order.exe
+C:\Repo\Check if characters are in order\Check if characters are in order\bin\Debug\Check if characters are in order.pdb
+C:\Repo\Check if characters are in order\Check if characters are in order\obj\Debug\Check if characters are in order.csproj.AssemblyReference.cache
+C:\Repo\Check if characters are in order\Check if characters are in order\obj\Debug\Check if characters are in order.csproj.CoreCompileInputs.cache
+C:\Repo\Check if characters are in order\Check if characters are in order\obj\Debug\Check if characters are in order.exe
+C:\Repo\Check if characters are in order\Check if characters are in order\obj\Debug\Check if characters are in order.pdb
