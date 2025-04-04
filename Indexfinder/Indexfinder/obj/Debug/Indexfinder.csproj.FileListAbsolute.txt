@@ -1,0 +1,7 @@
+C:\Repo\Indexfinder\Indexfinder\bin\Debug\Indexfinder.exe.config
+C:\Repo\Indexfinder\Indexfinder\bin\Debug\Indexfinder.exe
+C:\Repo\Indexfinder\Indexfinder\bin\Debug\Indexfinder.pdb
+C:\Repo\Indexfinder\Indexfinder\obj\Debug\Indexfinder.csproj.AssemblyReference.cache
+C:\Repo\Indexfinder\Indexfinder\obj\Debug\Indexfinder.csproj.CoreCompileInputs.cache
+C:\Repo\Indexfinder\Indexfinder\obj\Debug\Indexfinder.exe
+C:\Repo\Indexfinder\Indexfinder\obj\Debug\Indexfinder.pdb

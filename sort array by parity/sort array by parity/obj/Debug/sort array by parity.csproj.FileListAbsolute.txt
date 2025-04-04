@@ -1,0 +1,7 @@
+C:\Repo\sort array by parity\sort array by parity\bin\Debug\sort array by parity.exe.config
+C:\Repo\sort array by parity\sort array by parity\bin\Debug\sort array by parity.exe
+C:\Repo\sort array by parity\sort array by parity\bin\Debug\sort array by parity.pdb
+C:\Repo\sort array by parity\sort array by parity\obj\Debug\sort array by parity.csproj.AssemblyReference.cache
+C:\Repo\sort array by parity\sort array by parity\obj\Debug\sort array by parity.csproj.CoreCompileInputs.cache
+C:\Repo\sort array by parity\sort array by parity\obj\Debug\sort array by parity.exe
+C:\Repo\sort array by parity\sort array by parity\obj\Debug\sort array by parity.pdb

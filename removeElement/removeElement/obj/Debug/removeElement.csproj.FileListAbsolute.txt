@@ -1,0 +1,7 @@
+C:\Repo\removeElement\removeElement\bin\Debug\removeElement.exe.config
+C:\Repo\removeElement\removeElement\bin\Debug\removeElement.exe
+C:\Repo\removeElement\removeElement\bin\Debug\removeElement.pdb
+C:\Repo\removeElement\removeElement\obj\Debug\removeElement.csproj.AssemblyReference.cache
+C:\Repo\removeElement\removeElement\obj\Debug\removeElement.csproj.CoreCompileInputs.cache
+C:\Repo\removeElement\removeElement\obj\Debug\removeElement.exe
+C:\Repo\removeElement\removeElement\obj\Debug\removeElement.pdb
