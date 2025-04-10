@@ -1,0 +1,7 @@
+C:\Repo\First Unique Character in a String\First Unique Character in a String\bin\Debug\First Unique Character in a String.exe.config
+C:\Repo\First Unique Character in a String\First Unique Character in a String\bin\Debug\First Unique Character in a String.exe
+C:\Repo\First Unique Character in a String\First Unique Character in a String\bin\Debug\First Unique Character in a String.pdb
+C:\Repo\First Unique Character in a String\First Unique Character in a String\obj\Debug\First Unique Character in a String.csproj.AssemblyReference.cache
+C:\Repo\First Unique Character in a String\First Unique Character in a String\obj\Debug\First Unique Character in a String.csproj.CoreCompileInputs.cache
+C:\Repo\First Unique Character in a String\First Unique Character in a String\obj\Debug\First Unique Character in a String.exe
+C:\Repo\First Unique Character in a String\First Unique Character in a String\obj\Debug\First Unique Character in a String.pdb

@@ -1,0 +1,7 @@
+C:\Repo\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\Maximum Number of Balloons.csproj.AssemblyReference.cache
+C:\Repo\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\Maximum Number of Balloons.csproj.CoreCompileInputs.cache
+C:\Repo\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\Maximum Number of Balloons.exe.config
+C:\Repo\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\Maximum Number of Balloons.exe
+C:\Repo\Maximum Number of Balloons\Maximum Number of Balloons\bin\Debug\Maximum Number of Balloons.pdb
+C:\Repo\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\Maximum Number of Balloons.exe
+C:\Repo\Maximum Number of Balloons\Maximum Number of Balloons\obj\Debug\Maximum Number of Balloons.pdb

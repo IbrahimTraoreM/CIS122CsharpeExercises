@@ -1,0 +1,7 @@
+C:\Repo\Number of Segments in a String\Number of Segments in a String\bin\Debug\Number of Segments in a String.exe.config
+C:\Repo\Number of Segments in a String\Number of Segments in a String\bin\Debug\Number of Segments in a String.exe
+C:\Repo\Number of Segments in a String\Number of Segments in a String\bin\Debug\Number of Segments in a String.pdb
+C:\Repo\Number of Segments in a String\Number of Segments in a String\obj\Debug\Number of Segments in a String.csproj.AssemblyReference.cache
+C:\Repo\Number of Segments in a String\Number of Segments in a String\obj\Debug\Number of Segments in a String.csproj.CoreCompileInputs.cache
+C:\Repo\Number of Segments in a String\Number of Segments in a String\obj\Debug\Number of Segments in a String.exe
+C:\Repo\Number of Segments in a String\Number of Segments in a String\obj\Debug\Number of Segments in a String.pdb

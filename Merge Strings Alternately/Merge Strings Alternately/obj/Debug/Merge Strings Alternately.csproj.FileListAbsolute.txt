@@ -1,0 +1,7 @@
+C:\Repo\Merge Strings Alternately\Merge Strings Alternately\bin\Debug\Merge Strings Alternately.exe.config
+C:\Repo\Merge Strings Alternately\Merge Strings Alternately\bin\Debug\Merge Strings Alternately.exe
+C:\Repo\Merge Strings Alternately\Merge Strings Alternately\bin\Debug\Merge Strings Alternately.pdb
+C:\Repo\Merge Strings Alternately\Merge Strings Alternately\obj\Debug\Merge Strings Alternately.csproj.AssemblyReference.cache
+C:\Repo\Merge Strings Alternately\Merge Strings Alternately\obj\Debug\Merge Strings Alternately.csproj.CoreCompileInputs.cache
+C:\Repo\Merge Strings Alternately\Merge Strings Alternately\obj\Debug\Merge Strings Alternately.exe
+C:\Repo\Merge Strings Alternately\Merge Strings Alternately\obj\Debug\Merge Strings Alternately.pdb

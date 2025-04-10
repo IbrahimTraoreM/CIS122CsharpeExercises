@@ -1,0 +1,7 @@
+C:\Repo\Robot Return to Origin\Robot Return to Origin\obj\Debug\Robot Return to Origin.csproj.AssemblyReference.cache
+C:\Repo\Robot Return to Origin\Robot Return to Origin\obj\Debug\Robot Return to Origin.csproj.CoreCompileInputs.cache
+C:\Repo\Robot Return to Origin\Robot Return to Origin\bin\Debug\Robot Return to Origin.exe.config
+C:\Repo\Robot Return to Origin\Robot Return to Origin\bin\Debug\Robot Return to Origin.exe
+C:\Repo\Robot Return to Origin\Robot Return to Origin\bin\Debug\Robot Return to Origin.pdb
+C:\Repo\Robot Return to Origin\Robot Return to Origin\obj\Debug\Robot Return to Origin.exe
+C:\Repo\Robot Return to Origin\Robot Return to Origin\obj\Debug\Robot Return to Origin.pdb
