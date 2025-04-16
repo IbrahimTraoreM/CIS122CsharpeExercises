@@ -1,0 +1,7 @@
+C:\Repo\Find Pivot Index\Find Pivot Index\bin\Debug\Find Pivot Index.exe.config
+C:\Repo\Find Pivot Index\Find Pivot Index\bin\Debug\Find Pivot Index.exe
+C:\Repo\Find Pivot Index\Find Pivot Index\bin\Debug\Find Pivot Index.pdb
+C:\Repo\Find Pivot Index\Find Pivot Index\obj\Debug\Find Pivot Index.csproj.AssemblyReference.cache
+C:\Repo\Find Pivot Index\Find Pivot Index\obj\Debug\Find Pivot Index.csproj.CoreCompileInputs.cache
+C:\Repo\Find Pivot Index\Find Pivot Index\obj\Debug\Find Pivot Index.exe
+C:\Repo\Find Pivot Index\Find Pivot Index\obj\Debug\Find Pivot Index.pdb

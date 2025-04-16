@@ -1,0 +1,7 @@
+C:\Repo\Number of Students Unable to Eat Lunch\Number of Students Unable to Eat Lunch\obj\Debug\Number of Students Unable to Eat Lunch.csproj.AssemblyReference.cache
+C:\Repo\Number of Students Unable to Eat Lunch\Number of Students Unable to Eat Lunch\obj\Debug\Number of Students Unable to Eat Lunch.csproj.CoreCompileInputs.cache
+C:\Repo\Number of Students Unable to Eat Lunch\Number of Students Unable to Eat Lunch\bin\Debug\Number of Students Unable to Eat Lunch.exe.config
+C:\Repo\Number of Students Unable to Eat Lunch\Number of Students Unable to Eat Lunch\bin\Debug\Number of Students Unable to Eat Lunch.exe
+C:\Repo\Number of Students Unable to Eat Lunch\Number of Students Unable to Eat Lunch\bin\Debug\Number of Students Unable to Eat Lunch.pdb
+C:\Repo\Number of Students Unable to Eat Lunch\Number of Students Unable to Eat Lunch\obj\Debug\Number of Students Unable to Eat Lunch.exe
+C:\Repo\Number of Students Unable to Eat Lunch\Number of Students Unable to Eat Lunch\obj\Debug\Number of Students Unable to Eat Lunch.pdb

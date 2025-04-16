@@ -1,0 +1,7 @@
+C:\Repo\Baseball Game\Baseball Game\obj\Debug\Baseball Game.csproj.AssemblyReference.cache
+C:\Repo\Baseball Game\Baseball Game\obj\Debug\Baseball Game.csproj.CoreCompileInputs.cache
+C:\Repo\Baseball Game\Baseball Game\bin\Debug\Baseball Game.exe.config
+C:\Repo\Baseball Game\Baseball Game\bin\Debug\Baseball Game.exe
+C:\Repo\Baseball Game\Baseball Game\bin\Debug\Baseball Game.pdb
+C:\Repo\Baseball Game\Baseball Game\obj\Debug\Baseball Game.exe
+C:\Repo\Baseball Game\Baseball Game\obj\Debug\Baseball Game.pdb

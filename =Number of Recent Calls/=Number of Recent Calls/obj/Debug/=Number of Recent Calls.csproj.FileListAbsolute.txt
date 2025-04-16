@@ -1,0 +1,7 @@
+C:\Repo\=Number of Recent Calls\=Number of Recent Calls\bin\Debug\=Number of Recent Calls.exe.config
+C:\Repo\=Number of Recent Calls\=Number of Recent Calls\bin\Debug\=Number of Recent Calls.exe
+C:\Repo\=Number of Recent Calls\=Number of Recent Calls\bin\Debug\=Number of Recent Calls.pdb
+C:\Repo\=Number of Recent Calls\=Number of Recent Calls\obj\Debug\=Number of Recent Calls.csproj.AssemblyReference.cache
+C:\Repo\=Number of Recent Calls\=Number of Recent Calls\obj\Debug\=Number of Recent Calls.csproj.CoreCompileInputs.cache
+C:\Repo\=Number of Recent Calls\=Number of Recent Calls\obj\Debug\=Number of Recent Calls.exe
+C:\Repo\=Number of Recent Calls\=Number of Recent Calls\obj\Debug\=Number of Recent Calls.pdb
