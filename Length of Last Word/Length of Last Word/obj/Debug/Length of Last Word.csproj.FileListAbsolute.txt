@@ -1,0 +1,7 @@
+C:\Repo\Length of Last Word\Length of Last Word\bin\Debug\Length of Last Word.exe.config
+C:\Repo\Length of Last Word\Length of Last Word\bin\Debug\Length of Last Word.exe
+C:\Repo\Length of Last Word\Length of Last Word\bin\Debug\Length of Last Word.pdb
+C:\Repo\Length of Last Word\Length of Last Word\obj\Debug\Length of Last Word.csproj.AssemblyReference.cache
+C:\Repo\Length of Last Word\Length of Last Word\obj\Debug\Length of Last Word.csproj.CoreCompileInputs.cache
+C:\Repo\Length of Last Word\Length of Last Word\obj\Debug\Length of Last Word.exe
+C:\Repo\Length of Last Word\Length of Last Word\obj\Debug\Length of Last Word.pdb

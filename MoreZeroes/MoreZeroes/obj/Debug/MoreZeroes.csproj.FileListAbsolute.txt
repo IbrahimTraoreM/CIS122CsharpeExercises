@@ -1,0 +1,7 @@
+C:\Repo\MoreZeroes\MoreZeroes\bin\Debug\MoreZeroes.exe.config
+C:\Repo\MoreZeroes\MoreZeroes\bin\Debug\MoreZeroes.exe
+C:\Repo\MoreZeroes\MoreZeroes\bin\Debug\MoreZeroes.pdb
+C:\Repo\MoreZeroes\MoreZeroes\obj\Debug\MoreZeroes.csproj.AssemblyReference.cache
+C:\Repo\MoreZeroes\MoreZeroes\obj\Debug\MoreZeroes.csproj.CoreCompileInputs.cache
+C:\Repo\MoreZeroes\MoreZeroes\obj\Debug\MoreZeroes.exe
+C:\Repo\MoreZeroes\MoreZeroes\obj\Debug\MoreZeroes.pdb

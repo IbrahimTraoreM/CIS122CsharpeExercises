@@ -1,0 +1,7 @@
+C:\Repo\happy Number\happy Number\bin\Debug\happy Number.exe.config
+C:\Repo\happy Number\happy Number\bin\Debug\happy Number.exe
+C:\Repo\happy Number\happy Number\bin\Debug\happy Number.pdb
+C:\Repo\happy Number\happy Number\obj\Debug\happy Number.csproj.AssemblyReference.cache
+C:\Repo\happy Number\happy Number\obj\Debug\happy Number.csproj.CoreCompileInputs.cache
+C:\Repo\happy Number\happy Number\obj\Debug\happy Number.exe
+C:\Repo\happy Number\happy Number\obj\Debug\happy Number.pdb
